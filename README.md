@@ -10,7 +10,7 @@ frappe.ui.form.on('GPAN Portal Platform Individual1', {
     		frm.set_value("grand_crowning", b);
     		frm.refresh_field("grand_crowning");
 
-
+testing
 
         }
     });
